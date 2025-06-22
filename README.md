@@ -1,9 +1,16 @@
 # firststeps
 
+## Install on Mac
+
+# Development
+* Visual Studio Code
+* Homebrew
+* Git
+
 ## Barcelona-information
 [Homepage](https://www.fcbarcelona.com/en/)
 
-### Matretter
+### Food
 * Spaghetti 
 * Kjøttboller
 * Pizza
