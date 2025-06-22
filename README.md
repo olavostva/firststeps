@@ -2,9 +2,9 @@
 
 ## Install on Mac
 
-# Development
+## Development
 * Visual Studio Code
-* Homebrew
+* [Homebrew](https://brew.sh)
 * Git
 
 ## Barcelona-information
@@ -16,4 +16,4 @@
 * Pizza
 
 ## William and the gang
-[Channel link] (https://www.youtube.com/@Williamandthegang/shorts)
+[Channel link](https://www.youtube.com/@Williamandthegang/shorts)
