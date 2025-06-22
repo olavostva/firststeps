@@ -2,7 +2,7 @@
 
 ## Install on Mac
 
-## Development
+### Development
 * Visual Studio Code
 * [Homebrew](https://brew.sh)
 * Git
@@ -10,7 +10,7 @@
 ## Barcelona-information
 [Homepage](https://www.fcbarcelona.com/en/)
 
-### Food
+## Food
 * Spaghetti 
 * Kjøttboller
 * Pizza
